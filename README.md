@@ -1,3 +1,5 @@
+OBS: The source code will be available in this repository once the article is accepted.
+
 # Quantifying the Hype: Search-Driven Financial Market Dynamics
 
 This repository contains the source code and datasets for the manuscript **"Quantifying the Hype: Exploring Search-Driven Financial Market Dynamics via Machine Learning and Econometric Pipeline"** submitted to _IEEE Transactions on Computational Social Systems_.
