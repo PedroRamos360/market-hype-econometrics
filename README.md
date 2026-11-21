@@ -1,8 +1,10 @@
-OBS: The source code will be available in this repository once the article is accepted.
-
 # Quantifying the Hype: Search-Driven Financial Market Dynamics
 
 This repository contains the source code and datasets for the manuscript **"Quantifying the Hype: Exploring Search-Driven Financial Market Dynamics via Machine Learning and Econometric Pipeline"** submitted to _IEEE Transactions on Computational Social Systems_.
+
+> **Live Demo:** A static, frontend-only demonstration of the application pre-loaded with the manuscript's case study datasets is available at **[market-hype-econometrics.vercel.app](https://market-hype-econometrics.vercel.app)**.
+>
+> **Note on Source Code:** The empirical case study datasets are available now in `/data`. The full source code (`/backend` and `/frontend`) will be released in this repository upon manuscript acceptance.
 
 <img width="1175" height="829" alt="main_ui_graph" src="https://github.com/user-attachments/assets/9b472e5f-f55d-402a-8afc-452aeeab5d81" />
 
