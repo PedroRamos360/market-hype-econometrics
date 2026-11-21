@@ -56,7 +56,7 @@ ALPHA_VANTAGE_API_KEY3=your_alpha_vantage_key
 FINNHUB_API_KEY=your_finnhub_key
 ```
 
-The backend requires these exact variable names when it starts. Google Trends does not require a key. Keep real keys out of source control.
+The backend requires these exact variable names when it starts. Google Trends does not require a key.
 
 ### 2. Start the backend
 
@@ -65,8 +65,6 @@ In the same activated PowerShell terminal, from the `backend` directory, run:
 ```powershell
 python -m uvicorn api.main:app --reload --port 8080
 ```
-
-The health endpoint is [http://localhost:8080/](http://localhost:8080/), and the interactive API documentation is [http://localhost:8080/docs](http://localhost:8080/docs). Leave this terminal running.
 
 ### 3. Configure and start the frontend
 
