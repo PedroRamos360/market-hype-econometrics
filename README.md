@@ -4,6 +4,8 @@ OBS: The source code will be available in this repository once the article is ac
 
 This repository contains the source code and datasets for the manuscript **"Quantifying the Hype: Exploring Search-Driven Financial Market Dynamics via Machine Learning and Econometric Pipeline"** submitted to _IEEE Transactions on Computational Social Systems_.
 
+<img width="1175" height="829" alt="main_ui_graph" src="https://github.com/user-attachments/assets/9b472e5f-f55d-402a-8afc-452aeeab5d81" />
+
 ## Overview
 
 This project introduces a unified, API-driven computational framework for modeling and characterizing attention-driven collective behavior in financial systems. By automating the extraction and synchronization of online search interest and financial asset valuation, the platform dynamically evaluates the econometric relationship between market hype and price movements.
@@ -13,8 +15,6 @@ The analytical pipeline integrates:
 - **Classical Econometrics:** Vector Autoregressive (VAR) modeling and Granger Causality tests to quantify linear temporal dynamics and directional predictability.
 - **Information Theory:** Mutual Information (utilizing k-NN and KSG estimators) to detect complex, non-linear informational dependencies.
 - **Machine Learning & Forecasting:** The Prophet additive algorithm for out-of-sample price projection and systematic backtesting against baseline models.
-
-## Repository Structure
 
 - `/backend`: Contains the FastAPI Python server orchestrating data extraction (interfacing with Alpha Vantage, Finnhub, and pytrends), temporal synchronization (forward-fill imputation and min-max normalization), and the core computational modeling scripts.
 - `/frontend`: Contains the React and TypeScript Single Page Application (SPA), utilizing Echarts-for-react for rendering interactive, dense time-series visualizations.
