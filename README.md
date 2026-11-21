@@ -24,7 +24,7 @@ The analytical pipeline integrates:
 
 ## Data Availability
 
-The `/data` directory contains the synchronized and normalized data utilized in the empirical evaluations. This includes the high-frequency daily and weekly observations for NVIDIA (NVDA), Bitcoin (BTC), and GameStop (GME) required to reproduce the statistical matrices and forecasting performance evaluations presented in the study.
+The `/data` directory contains the synchronized and normalized data utilized in the empirical evaluations. This includes the high-frequency daily and weekly observations for NVIDIA (NVDA), Bitcoin (BTC) and GameStop (GME) required to reproduce the statistical matrices.
 
 ## Getting Started
 
