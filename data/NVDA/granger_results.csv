@@ -1,0 +1,10 @@
+,Lag 1,Lag 2,Lag 3,Lag 4,Lag 5
+Valorização da ação ``NVDA'' não Granger causa pesquisa por ``NVIDIA'',0.00908,0.01281,0.02530,0.04241,0.03303
+Pesquisa por ``NVIDIA'' não Granger causa valorização da ação ``NVDA'',0.98167,0.90909,0.23793,0.31879,0.48495
+
+# Research Data Export
+# Ticker: NVDA
+# Search Word: NVIDIA
+# Start Date: 2020-08-27
+# End Date: 2025-08-27
+# Export Date: 2025-08-27T23:33:32.009Z

@@ -1,0 +1,23 @@
+Variável,Coeficiente,Erro Padrão,Estatística t,p-valor
+Constante,-3.26308,4.11279,-0.79340,0.42755
+Volume de pesquisas lag 1,0.20803,0.18236,1.14081,0.25395
+Valorização da ação lag 1,0.67478,0.20160,3.34710,0.00082
+Volume de pesquisas lag 2,-0.27029,0.18334,-1.47429,0.14040
+Valorização da ação lag 2,0.10396,0.18215,0.57076,0.56817
+Volume de pesquisas lag 3,-0.40943,0.19626,-2.08611,0.03697
+Valorização da ação lag 3,0.24667,0.18656,1.32217,0.18611
+Volume de pesquisas lag 4,0.18415,0.20036,0.91910,0.35804
+Valorização da ação lag 4,-0.08266,0.17275,-0.47852,0.63228
+Volume de pesquisas lag 5,-0.47116,0.21959,-2.14562,0.03190
+Valorização da ação lag 5,0.17019,0.17067,0.99719,0.31867
+Volume de pesquisas lag 6,0.11215,0.18869,0.59435,0.55228
+Valorização da ação lag 6,0.02919,0.15468,0.18870,0.85033
+Volume de pesquisas lag 7,0.04340,0.17906,0.24236,0.80850
+Valorização da ação lag 7,0.16952,0.19390,0.87424,0.38199
+
+# Research Data Export
+# Ticker: GME
+# Search Word: Game Stop
+# Start Date: 2021-01-02
+# End Date: 2021-03-02
+# Export Date: 2025-09-16T20:52:51.423Z

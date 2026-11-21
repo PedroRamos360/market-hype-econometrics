@@ -1,0 +1,23 @@
+Variável,Coeficiente,Erro Padrão,Estatística t,p-valor
+Constante,0.14379,0.18639,0.77145,0.44044
+Volume de pesquisas lag 1,-0.00653,0.00859,-0.76037,0.44703
+Valorização da ação lag 1,-0.14204,0.06739,-2.10765,0.03506
+Volume de pesquisas lag 2,0.01004,0.00850,1.18151,0.23740
+Valorização da ação lag 2,0.10870,0.06789,1.60097,0.10938
+Volume de pesquisas lag 3,-0.02075,0.00877,-2.36567,0.01800
+Valorização da ação lag 3,0.01987,0.06742,0.29471,0.76822
+Volume de pesquisas lag 4,-0.00983,0.00882,-1.11478,0.26494
+Valorização da ação lag 4,-0.01797,0.06760,-0.26580,0.79040
+Volume de pesquisas lag 5,-0.01663,0.00894,-1.85937,0.06297
+Valorização da ação lag 5,-0.10676,0.06743,-1.58316,0.11339
+Volume de pesquisas lag 6,-0.00320,0.00849,-0.37684,0.70629
+Valorização da ação lag 6,-0.07809,0.06763,-1.15469,0.24822
+Volume de pesquisas lag 7,-0.01536,0.00859,-1.78812,0.07376
+Valorização da ação lag 7,0.00561,0.06729,0.08335,0.93357
+
+# Research Data Export
+# Ticker: NVDA
+# Search Word: NVIDIA
+# Start Date: 2024-12-26
+# End Date: 2025-08-26
+# Export Date: 2025-08-27T00:04:18.352Z

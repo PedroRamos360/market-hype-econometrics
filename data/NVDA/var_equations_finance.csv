@@ -1,0 +1,15 @@
+Variável,Coeficiente,Erro Padrão,Estatística t,p-valor
+Constante,0.99262,0.43654,2.27381,0.02298
+Volume de pesquisas lag 1,0.01368,0.02710,0.50466,0.61380
+Valorização da ação lag 1,0.01348,0.06306,0.21370,0.83078
+Volume de pesquisas lag 2,0.03098,0.02801,1.10584,0.26880
+Valorização da ação lag 2,0.02992,0.06395,0.46787,0.63987
+Volume de pesquisas lag 3,0.05434,0.02684,2.02420,0.04295
+Valorização da ação lag 3,0.00152,0.06392,0.02385,0.98097
+
+# Research Data Export
+# Ticker: NVDA
+# Search Word: NVIDIA
+# Start Date: 2020-08-27
+# End Date: 2025-08-27
+# Export Date: 2025-08-27T23:33:32.009Z

@@ -1,0 +1,19 @@
+Variável,Coeficiente,Erro Padrão,Estatística t,p-valor
+Constante,0.22680,0.16861,1.34511,0.17859
+Volume de pesquisas lag 1,0.00367,0.00830,0.44255,0.65809
+Valorização da ação lag 1,-0.07469,0.06714,-1.11236,0.26598
+Volume de pesquisas lag 2,0.00724,0.00835,0.86766,0.38558
+Valorização da ação lag 2,0.00702,0.06730,0.10423,0.91699
+Volume de pesquisas lag 3,-0.00706,0.00885,-0.79719,0.42534
+Valorização da ação lag 3,-0.02905,0.06717,-0.43249,0.66539
+Volume de pesquisas lag 4,-0.00471,0.00845,-0.55706,0.57749
+Valorização da ação lag 4,-0.01979,0.06632,-0.29842,0.76538
+Volume de pesquisas lag 5,0.02198,0.00836,2.62872,0.00857
+Valorização da ação lag 5,-0.06011,0.06637,-0.90568,0.36510
+
+# Research Data Export
+# Ticker: BTC
+# Search Word: Bitcoin
+# Start Date: 2024-10-16
+# End Date: 2025-06-16
+# Export Date: 2025-09-16T20:03:00.445Z
